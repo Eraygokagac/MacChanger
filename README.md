@@ -1,5 +1,5 @@
 # MacChanger
-git clone https://github.com/Eraygokagac/MacChanger.git
+- git clone https://github.com/Eraygokagac/MacChanger.git
 
 - python MacChanger.py -i eth0 -m 00:11:22:33:44:55
 
